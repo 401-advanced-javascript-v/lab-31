@@ -6,7 +6,7 @@
 ### Author: Vanessa
 
 ### Links and Resources
-* [repo](https://github.com/401-advanced-javascript-v/lab-31/edit/master)
+* [repo](https://github.com/401-advanced-javascript-v/lab-31)
 * [Connect to a store](https://codesandbox.io/s/kx9zoww89o)
 * [Create a new reducer](https://codesandbox.io/s/8plj0vkzj2)
 
